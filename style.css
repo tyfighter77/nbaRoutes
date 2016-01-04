@@ -135,3 +135,9 @@ html, body {
   width: 150px;
   margin-bottom: 15px;
 }
+
+.frontDiv {
+  display: inline-block;
+  margin: 20px;
+  width: 20%;
+}
